@@ -71,3 +71,4 @@ export default defineConfig([
   },
 ])
 ```
+测试自动部署流程
